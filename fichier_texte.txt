@@ -1,1 +1,2 @@
-un fichier texte créé en local
+un fichier texte crÃ©Ã© en local
+et modifiÃ© dans github
